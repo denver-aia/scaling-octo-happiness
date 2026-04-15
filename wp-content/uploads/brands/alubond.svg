@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 130" width="220" height="130">
+  <rect width="220" height="130" fill="white"/>
+  <!-- Shield/mountain icon in dark blue -->
+  <polygon points="40,25 60,25 70,55 50,80 30,55" fill="#1a3a6e"/>
+  <polygon points="45,35 55,35 63,55 50,72 37,55" fill="white"/>
+  <polygon points="48,43 52,43 55,53 50,62 45,53" fill="#1a3a6e"/>
+  <!-- Alubond text -->
+  <text x="145" y="55" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#1a3a6e">Alubond</text>
+  <!-- Registered mark -->
+  <text x="192" y="48" font-family="Arial" font-size="10" fill="#1a3a6e">®</text>
+  <!-- U.S.A. -->
+  <text x="145" y="75" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#555">U.S.A.</text>
+</svg>

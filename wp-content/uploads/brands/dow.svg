@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <rect width="200" height="120" fill="white"/>
+  <!-- Red diamond/rhombus -->
+  <polygon points="100,8 185,60 100,112 15,60" fill="#cc1b1b"/>
+  <!-- Dow text -->
+  <text x="100" y="67" text-anchor="middle" font-family="Arial" font-size="34" font-weight="900" fill="white">Dow</text>
+  <!-- Registered mark -->
+  <text x="152" y="48" text-anchor="middle" font-family="Arial" font-size="10" fill="white">®</text>
+</svg>

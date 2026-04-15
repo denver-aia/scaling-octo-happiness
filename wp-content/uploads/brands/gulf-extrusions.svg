@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <rect width="200" height="160" fill="white"/>
+  <!-- Two chevron arrows -->
+  <polygon points="40,50 70,80 40,110 55,110 85,80 55,50" fill="#4db848"/>
+  <polygon points="60,50 90,80 60,110 75,110 105,80 75,50" fill="#f5a623"/>
+  <!-- Arabic text -->
+  <text x="115" y="65" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#1a1a1a">الخليج للسحب</text>
+  <!-- English text -->
+  <text x="115" y="88" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#1a1a1a">Gulf Extrusions</text>
+</svg>

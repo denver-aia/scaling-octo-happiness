@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <rect width="200" height="160" fill="white"/>
+  <!-- Crown SVG shape -->
+  <polygon points="70,30 70,65 83,50 100,70 117,50 130,65 130,30 120,40 100,25 80,40" fill="#cc2200"/>
+  <!-- BRITAL -->
+  <text x="100" y="100" text-anchor="middle" font-family="Arial" font-size="28" font-weight="900" letter-spacing="2" fill="#cc2200">BRITAL</text>
+  <!-- subtitle -->
+  <text x="100" y="118" text-anchor="middle" font-family="Arial" font-size="8" letter-spacing="1" fill="#666">ALUMINIUM SYSTEMS DESIGN</text>
+</svg>

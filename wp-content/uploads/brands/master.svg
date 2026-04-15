@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 130" width="220" height="130">
+  <rect width="220" height="130" fill="white"/>
+  <!-- Diamond icon -->
+  <polygon points="28,65 48,40 68,65 48,90" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <polygon points="38,65 48,52 58,65 48,78" fill="#1a1a1a"/>
+  <!-- MASTER text -->
+  <text x="135" y="62" text-anchor="middle" font-family="Arial" font-size="24" font-weight="900" fill="#1a1a1a">MASTER</text>
+  <text x="135" y="78" text-anchor="middle" font-family="Arial" font-size="7" letter-spacing="0.5" fill="#555">HARDWARE FOR WINDOWS AND DOORS</text>
+</svg>

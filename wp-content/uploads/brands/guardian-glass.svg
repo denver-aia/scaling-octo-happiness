@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120">
+  <rect width="220" height="120" fill="white"/>
+  <!-- Blue circle with G -->
+  <circle cx="38" cy="60" r="30" fill="#1a56a0"/>
+  <text x="38" y="67" text-anchor="middle" font-family="Georgia" font-size="28" font-weight="bold" fill="white">G</text>
+  <!-- Guardian Glass text -->
+  <text x="130" y="50" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#1a56a0">GUARDIAN</text>
+  <text x="130" y="70" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#1a56a0">GLASS</text>
+  <text x="130" y="87" text-anchor="middle" font-family="Arial" font-size="9" fill="#666">See what&#39;s possible</text>
+</svg>

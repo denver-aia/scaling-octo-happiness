@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <rect width="200" height="160" fill="white"/>
+  <!-- Outer circle -->
+  <circle cx="100" cy="62" r="40" fill="none" stroke="#b8960c" stroke-width="3"/>
+  <!-- Inner circles -->
+  <circle cx="100" cy="62" r="28" fill="none" stroke="#b8960c" stroke-width="2"/>
+  <circle cx="100" cy="62" r="16" fill="none" stroke="#b8960c" stroke-width="2"/>
+  <circle cx="100" cy="62" r="5" fill="#b8960c"/>
+  <!-- Cross hairs -->
+  <line x1="100" y1="22" x2="100" y2="42" stroke="#b8960c" stroke-width="2"/>
+  <line x1="100" y1="82" x2="100" y2="102" stroke="#b8960c" stroke-width="2"/>
+  <line x1="60" y1="62" x2="80" y2="62" stroke="#b8960c" stroke-width="2"/>
+  <line x1="120" y1="62" x2="140" y2="62" stroke="#b8960c" stroke-width="2"/>
+  <!-- napco text inside -->
+  <text x="100" y="67" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold" fill="#333">napco</text>
+  <!-- Full name below -->
+  <text x="100" y="118" text-anchor="middle" font-family="Arial" font-size="8" fill="#555">NATIONAL ALUMINIUM</text>
+  <text x="100" y="129" text-anchor="middle" font-family="Arial" font-size="8" fill="#555">PRODUCTS COMPANY SAOG</text>
+</svg>

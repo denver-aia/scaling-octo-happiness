@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" width="220" height="100">
+  <rect width="220" height="100" fill="white"/>
+  <!-- Two square blocks -->
+  <rect x="18" y="30" width="22" height="22" fill="#1a3070"/>
+  <rect x="18" y="54" width="22" height="22" fill="#1a3070"/>
+  <rect x="42" y="30" width="22" height="22" fill="#1a3070"/>
+  <rect x="42" y="54" width="22" height="22" fill="#1a3070"/>
+  <!-- GIESSE text -->
+  <text x="130" y="62" text-anchor="middle" font-family="Arial" font-size="26" font-weight="900" letter-spacing="3" fill="#1a3070">GIESSE</text>
+</svg>

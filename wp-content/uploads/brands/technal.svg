@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <rect width="200" height="160" fill="white"/>
+  <!-- Black box -->
+  <rect x="25" y="35" width="150" height="75" rx="2" fill="#111111"/>
+  <!-- Bracket icon -->
+  <text x="55" y="82" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="white">⊞</text>
+  <!-- TECHNAL text -->
+  <text x="120" y="77" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" letter-spacing="1" fill="white">TECHNAL</text>
+  <!-- by Hydro -->
+  <text x="120" y="92" text-anchor="middle" font-family="Arial" font-size="9" fill="#aaa">By   )))  Hydro</text>
+</svg>

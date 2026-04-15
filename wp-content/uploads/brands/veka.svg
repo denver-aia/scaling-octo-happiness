@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+  <rect width="200" height="160" fill="white"/>
+  <!-- Diamond/rhombus shape with border -->
+  <polygon points="100,15 175,80 100,145 25,80" fill="white" stroke="#1a3a8c" stroke-width="5"/>
+  <!-- VEKA text inside diamond -->
+  <text x="100" y="88" text-anchor="middle" font-family="Arial" font-size="30" font-weight="900" letter-spacing="2" fill="#1a3a8c">VEKA</text>
+</svg>

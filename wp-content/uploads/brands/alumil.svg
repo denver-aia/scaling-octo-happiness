@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
+  <rect width="200" height="100" fill="white"/>
+  <!-- Yellow chevron/arrow -->
+  <polygon points="15,25 55,50 15,75 28,75 68,50 28,25" fill="#f5a623"/>
+  <polygon points="35,25 75,50 35,75 48,75 88,50 48,25" fill="#e8951a"/>
+  <!-- Alumil text -->
+  <text x="125" y="57" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#1a1a1a">Alumil</text>
+</svg>
