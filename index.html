@@ -228,6 +228,26 @@ var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/
 @media (max-width: 650px) { .kpdi-logos-grid { grid-template-columns: repeat(3, 1fr); gap:14px; } }
 @media (max-width: 440px) { .kpdi-logos-grid { grid-template-columns: repeat(2, 1fr); gap:12px; } }
 
+/* ── Mobile font-size optimisations (≤767 px) ──────────────────────────── */
+@media (max-width: 767px) {
+  /* Feature / hero slider titles */
+  #eut-header[data-fullscreen='no'] #eut-feature-section .eut-title,
+  #eut-header[data-fullscreen='yes'] #eut-feature-section .eut-title,
+  #eut-feature-title .eut-title { font-size: 26px !important; line-height: 32px !important; }
+
+  /* Main-content heading scale */
+  #eut-main-content h1 { font-size: 26px !important; line-height: 34px !important; }
+  #eut-main-content h2 { font-size: 22px !important; line-height: 30px !important; }
+  #eut-main-content h3 { font-size: 18px !important; line-height: 26px !important; }
+  #eut-main-content h4 { font-size: 16px !important; line-height: 22px !important; }
+
+  /* WooCommerce product-card titles */
+  .woocommerce-loop-product__title { font-size: 15px !important; line-height: 21px !important; }
+
+  /* "We Offer" section heading */
+  .kpdi-we-offer-title { font-size: 1.4rem !important; }
+}
+
 /* ── Who We Serve – equal-height aligned boxes ─────────────────────────── */
 #kpdi-who-we-serve .eut-row.eut-bookmark {
   display: flex !important;
