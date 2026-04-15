@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 100" width="220" height="100">
-  <rect width="220" height="100" fill="white"/>
-  <!-- Two square blocks -->
-  <rect x="18" y="30" width="22" height="22" fill="#1a3070"/>
-  <rect x="18" y="54" width="22" height="22" fill="#1a3070"/>
-  <rect x="42" y="30" width="22" height="22" fill="#1a3070"/>
-  <rect x="42" y="54" width="22" height="22" fill="#1a3070"/>
-  <!-- GIESSE text -->
-  <text x="130" y="62" text-anchor="middle" font-family="Arial" font-size="26" font-weight="900" letter-spacing="3" fill="#1a3070">GIESSE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" fill="white"/>
+  <!-- Giesse horizontal bar accent (from actual brand) -->
+  <rect x="28" y="36" width="4" height="20" fill="#1a3070"/>
+  <rect x="35" y="28" width="4" height="28" fill="#1a3070"/>
+  <rect x="42" y="22" width="4" height="36" fill="#1a3070"/>
+  <!-- GIESSE wordmark in navy blue -->
+  <text x="135" y="52" text-anchor="middle" font-family="'Arial Narrow',Arial,sans-serif" font-size="30" font-weight="900" fill="#1a3070" letter-spacing="3">GIESSE</text>
 </svg>
