@@ -1701,7 +1701,7 @@ select,
 .wpcf7-form p.wpcf7-submit-row {
 	clear: both;
 	margin-top: 10px;
-	text-align: left;
+	text-align: right;
 }
 
 .wpcf7-form .wpcf7-textarea {
@@ -1713,6 +1713,14 @@ select,
 	background-color: #bba887;
 	color: #ffffff;
 	border: none;
+}
+
+.wpcf7-form .eut-one-third {
+	width: 24%;
+}
+
+.wpcf7-form .eut-two-thirds {
+	width: 75%;
 }
 
 .eut-one-third {
