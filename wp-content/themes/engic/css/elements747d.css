@@ -1705,7 +1705,7 @@ select,
 }
 
 .wpcf7-form .wpcf7-textarea {
-	height: 195px;
+	height: 150px;
 	resize: none;
 }
 
@@ -1713,6 +1713,7 @@ select,
 	background-color: #bba887;
 	color: #ffffff;
 	border: none;
+	width: 100%;
 }
 
 .eut-one-third {
