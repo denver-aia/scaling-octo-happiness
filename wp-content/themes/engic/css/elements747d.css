@@ -1698,7 +1698,7 @@ select,
 }
 
 .wpcf7-form p:has(.wpcf7-submit) {
-	display: none;
+	text-align: left;
 }
 
 .eut-one-third {
