@@ -1698,11 +1698,30 @@ select,
 }
 
 .wpcf7-form p:has(.wpcf7-submit) {
+	clear: both;
+	margin-top: 10px;
 	text-align: left;
+}
+
+.wpcf7-form .wpcf7-textarea {
+	height: 162px;
+	resize: none;
+}
+
+.wpcf7-form .wpcf7-submit {
+	background-color: #bba887;
+	color: #ffffff;
+	border: none;
 }
 
 .eut-one-third {
 	width: 32.666666%;
+	float: left;
+	margin-right: 1%;
+}
+
+.eut-two-thirds {
+	width: 66.333333%;
 	float: left;
 	margin-right: 1%;
 }
@@ -1714,6 +1733,7 @@ select,
 }
 
 .eut-one-third.eut-last-column,
+.eut-two-thirds.eut-last-column,
 .eut-one-half.eut-last-column {
 	margin-right: 0;
 }
