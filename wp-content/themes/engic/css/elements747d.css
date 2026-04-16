@@ -1697,6 +1697,10 @@ select,
 	margin-bottom: 6px;
 }
 
+.wpcf7-form p:has(.wpcf7-submit) {
+	text-align: left;
+}
+
 .eut-one-third {
 	width: 32.666666%;
 	float: left;
