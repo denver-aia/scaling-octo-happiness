@@ -1697,14 +1697,15 @@ select,
 	margin-bottom: 6px;
 }
 
-.wpcf7-form p:has(.wpcf7-submit) {
+.wpcf7-form p:has(.wpcf7-submit),
+.wpcf7-form p.wpcf7-submit-row {
 	clear: both;
 	margin-top: 10px;
 	text-align: left;
 }
 
 .wpcf7-form .wpcf7-textarea {
-	height: 162px;
+	height: 195px;
 	resize: none;
 }
 
