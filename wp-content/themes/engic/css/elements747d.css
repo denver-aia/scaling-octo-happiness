@@ -1698,7 +1698,8 @@ select,
 }
 
 .wpcf7-form p:has(.wpcf7-submit),
-.wpcf7-form p.wpcf7-submit-row {
+.wpcf7-form p.wpcf7-submit-row,
+.wpcf7-form p:has(input.wpcf7-submit) {
 	clear: both;
 	margin-top: 10px;
 	text-align: right;
