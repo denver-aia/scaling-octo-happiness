@@ -1714,6 +1714,8 @@ select,
 	background-color: #bba887;
 	color: #ffffff;
 	border: none;
+	display: block;
+	margin-left: auto;
 }
 
 .wpcf7-form .eut-one-third {
