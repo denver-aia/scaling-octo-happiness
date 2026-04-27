@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <rect width="220" height="80" fill="white"/>
+  <!-- VEKA diamond/rhombus mark - navy blue, simplified version of actual mark -->
+  <polygon points="32,40 50,20 68,40 50,60" fill="#1B3A70"/>
+  <polygon points="36,40 50,25 64,40 50,55" fill="white"/>
+  <polygon points="43,40 50,32 57,40 50,48" fill="#1B3A70"/>
+  <!-- VEKA wordmark -->
+  <text x="145" y="51" text-anchor="middle" font-family="'Arial Black',Arial,sans-serif" font-size="32" font-weight="900" fill="#1B3A70" letter-spacing="1">VEKA</text>
+</svg>

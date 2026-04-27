@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 100" width="260" height="100">
+  <rect width="260" height="100" fill="white"/>
+  <!-- Two chevron arrows matching their real brand identity: green and gold -->
+  <polygon points="20,28 42,50 20,72 30,72 52,50 30,28" fill="#2E8B35"/>
+  <polygon points="36,28 58,50 36,72 46,72 68,50 46,28" fill="#D4A017"/>
+  <!-- Gulf Extrusions wordmark -->
+  <text x="168" y="44" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" letter-spacing="1">GULF</text>
+  <text x="168" y="64" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1a1a1a" letter-spacing="1">EXTRUSIONS</text>
+</svg>

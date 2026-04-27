@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <rect width="280" height="80" fill="white"/>
+  <!-- Guardian Glass wordmark - corporate blue, based on official brand identity -->
+  <text x="140" y="36" text-anchor="middle" font-family="'Arial Black',Arial,sans-serif" font-size="26" font-weight="900" fill="#0066B2" letter-spacing="-0.5">GUARDIAN</text>
+  <text x="140" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="400" fill="#0066B2" letter-spacing="6">GLASS</text>
+</svg>
